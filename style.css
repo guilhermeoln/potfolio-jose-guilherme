@@ -1,0 +1,79 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #1C1C1C;
+    padding: 5rem;
+}
+
+.img-size{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: none;
+    margin-top: 2rem;
+}
+.small-color-1{
+    color: #FFFAFA;
+}
+.small-color{
+    color: #00FF00;
+}
+.container-fluid p {
+    color: #FFFAFA;
+}
+hr{
+    color: #FFFAFA;
+}
+h2{
+    color: #00FF00;
+}
+.education, .language{
+    margin-top: 4rem;
+}
+.header-education{
+    color: #00FF00;
+}
+.date-education, .about-education{
+    color: #FFFAFA;
+}
+.container-education, .container-skills, .container-projects{
+    margin-top: 15rem;
+}
+
+.itens{
+    margin-top: 70px;
+}
+
+.programming{
+    font-size: 60px;
+    color: white;
+    padding: 30px;
+}
+
+i:hover{
+   color: #00FF00;
+}
+
+.botao{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 100px;
+    margin: 5px;
+}
+
+a{
+    color: #1C1C1C;
+}
+
+figure{
+    margin-top: 50px;
+}
+
+.login-screen{
+    color: #00FF00;
+    margin-top: 40px;
+}
+
+
+
